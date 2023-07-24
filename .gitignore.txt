@@ -1,0 +1,7 @@
+# ignore checkpoint folder
+.ipynb_checkpoints/
+
+# ignore word file
+/Notes.docx
+
+# commenting so gig track a change
