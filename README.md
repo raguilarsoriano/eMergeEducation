@@ -4,7 +4,7 @@ The focus of this project is to contribute to the reduction of academic dropout 
 
 # Content
 
-Within this repository you can find the data source we use to feed the models and make our predictions, which you can also download [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success "here")
+Within this repository you can find the data source we use to feed the models and make our predictions, which you can also download [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success "here").
 In addition, you will find a Jupyter notebook where the process that was carried out for the analysis of the dataset and the training of the models and a file containing the dictionary for the features.
 
 # Summary
@@ -27,23 +27,14 @@ After analyzing the different features we came to the conclusion that they are a
 |Name|Type|    
 |----|-----|
 |Marital status|int64|
-|----|-----|
 |Application mode|int64|
-|----|-----|
 |Admission grade|float64|
-|----|-----|
 |Course|int64|
-|----|-----|
 |Daytime/evening attendance|int64|
-|----|-----|
 |Nacionality|int64|
-|----|-----|
 |Gender|int64|
-|----|-----|
 |Scholarship holder|int64|
-|----|-----|
 |Age at enrollment|int64|
-|----|-----|
 |Unemployment rate|float64|
 
 To have more details of each feature please check the features dictionary [here](link of the csv "here").
