@@ -4,14 +4,14 @@ The focus of this project is to contribute to the reduction of academic dropout 
 
 ![Higher Education](images/2604848.jfif)
 
-The main files in this Repo are "eMergeEducation.ipynb", "Final Capstone eMerge Education (Group 4).pdf", the dictionary "0. DatasetExplanation.xlsx", and the data set contained in "0.data.csv"
+> The main files in this Repo are "eMergeEducation.ipynb", "Final Capstone eMerge Education (Group 4).pdf", the dictionary "0. DatasetExplanation.xlsx", and the data set contained in "0.data.csv"
 
-The files contents are as follows:
+> The files contents are as follows:
 
-Project Notebook - Contains all of the code we utilized in this project.
-It has all be formatted to make it easy to read through and undertand the flow.
-Contains markdown text in key areas to better describes the text.
-Presentation - The presentation is a PDF version of our powerpoint that we delivered.
+> Project Notebook - Contains all of the code we utilized in this project.
+> // It has all be formatted to make it easy to read through and undertand the flow.
+> //Contains markdown text in key areas to better describes the text.
+> Presentation - The presentation is a PDF version of our powerpoint that we delivered.
 
 
 # Content
