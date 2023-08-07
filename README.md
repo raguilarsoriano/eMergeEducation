@@ -1,4 +1,4 @@
-# eMergeEducation
+# eMergeEducation: Predicting Student Dropout and Academic Success
 
 The focus of this project is to contribute to the reduction of academic dropout and failure in higher education, by using machine learning techniques to identify students at risk at an early stage of their academic path, so that strategies to support them can be put into place. 
 
@@ -8,6 +8,9 @@ The focus of this project is to contribute to the reduction of academic dropout 
 
 Within this repository you can find the data source we use to feed the models and make our predictions, which you can also download [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success "here").
 In addition, you will find a Jupyter notebook where the process that was carried out for the analysis of the dataset and the training of the models and a file containing the dictionary for the features.
+
+[Click to view Final Presentation](https://amedeloitte-my.sharepoint.com/:p:/r/personal/mervela_deloitte_com/Documents/Final%20Capstone%20eMerge%20Education%20(Group%204).pptx?d=w246b28e63f714ff4b2b10ff5324efb3c&csf=1&web=1&e=aBtXgN "Click to view Final Presentation").
+
 
 # Summary
 
@@ -75,5 +78,4 @@ It is crucial for us to use AI responsibly, transparently, and with a strong foc
 Furthermore, human intervention plays a vital role in the process. The final decisions about how to allocate resources or provide support to individual students should be made by educators, counselors, and administrators who have a comprehensive understanding of the unique circumstances and needs of each student. The AI model's predictions should be considered as valuable insights, but the human element ensures that empathy, contextual understanding, and ethical considerations are taken into account when making decisions.
 
 
-[Click to view Final Presentation](https://amedeloitte-my.sharepoint.com/:p:/r/personal/mervela_deloitte_com/Documents/Final%20Capstone%20eMerge%20Education%20(Group%204).pptx?d=w246b28e63f714ff4b2b10ff5324efb3c&csf=1&web=1&e=aBtXgN "Click to view Final Presentation").
 
