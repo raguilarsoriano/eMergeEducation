@@ -45,7 +45,7 @@ The dataset contained over 3000 instances and realized that it was a low-complex
 
 
 
-To have more details of each feature please check the features dictionary [here](link of the csv "here").
+To have more details of each feature please check the features dictionary [here](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success "here").
 
 ###  Data Modelling
 
@@ -64,7 +64,7 @@ During our evaluation, we also discovered that XGBoost delivered more true posit
 
 In summary, while Histogram Gradient Boosting exhibited a slightly higher accuracy, we confidently selected XGBoost as our preferred model due to its lower complexity, comparable accuracy, and superior performance in terms of true positives and false negatives. This decision ensures a more interpretable and efficient model that aligns with the specific requirements of our project, while maintaining a high level of predictive power and reliability.
 
-### Conclusions
+# Conclusions
 
 Our primary goal is not to utilize these predictive models as a means of admitting or rejecting students but to develop an assessment prioritization tool that helps institutions allocate resources effectively to support students who may be at risk of dropping out.
 
@@ -74,4 +74,6 @@ It is crucial for us to use AI responsibly, transparently, and with a strong foc
 
 Furthermore, human intervention plays a vital role in the process. The final decisions about how to allocate resources or provide support to individual students should be made by educators, counselors, and administrators who have a comprehensive understanding of the unique circumstances and needs of each student. The AI model's predictions should be considered as valuable insights, but the human element ensures that empathy, contextual understanding, and ethical considerations are taken into account when making decisions.
 
+
+[here](https://amedeloitte-my.sharepoint.com/:p:/r/personal/mervela_deloitte_com/Documents/Final%20Capstone%20eMerge%20Education%20(Group%204).pptx?d=w246b28e63f714ff4b2b10ff5324efb3c&csf=1&web=1&e=aBtXgN "  Click to view Final Presentation").
 
