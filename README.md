@@ -9,8 +9,8 @@ The focus of this project is to contribute to the reduction of academic dropout 
 > The files contents are as follows:
 
 > Project Notebook - Contains all of the code we utilized in this project.
-> // It has all be formatted to make it easy to read through and undertand the flow.
-> //Contains markdown text in key areas to better describes the text.
+> * It has all be formatted to make it easy to read through and undertand the flow.
+> * Contains markdown text in key areas to better describes the text.
 > Presentation - The presentation is a PDF version of our powerpoint that we delivered.
 
 
