@@ -75,5 +75,5 @@ It is crucial for us to use AI responsibly, transparently, and with a strong foc
 Furthermore, human intervention plays a vital role in the process. The final decisions about how to allocate resources or provide support to individual students should be made by educators, counselors, and administrators who have a comprehensive understanding of the unique circumstances and needs of each student. The AI model's predictions should be considered as valuable insights, but the human element ensures that empathy, contextual understanding, and ethical considerations are taken into account when making decisions.
 
 
-[here](https://amedeloitte-my.sharepoint.com/:p:/r/personal/mervela_deloitte_com/Documents/Final%20Capstone%20eMerge%20Education%20(Group%204).pptx?d=w246b28e63f714ff4b2b10ff5324efb3c&csf=1&web=1&e=aBtXgN "  Click to view Final Presentation").
+[Click to view Final Presentation](https://amedeloitte-my.sharepoint.com/:p:/r/personal/mervela_deloitte_com/Documents/Final%20Capstone%20eMerge%20Education%20(Group%204).pptx?d=w246b28e63f714ff4b2b10ff5324efb3c&csf=1&web=1&e=aBtXgN "Click to view Final Presentation").
 
